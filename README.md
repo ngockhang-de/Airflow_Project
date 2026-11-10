@@ -23,7 +23,7 @@ The goal is to produce reliable, structured sales data and an audit report for e
 Airflow_Project/
 │
 ├── dags/
-│   └── britmart_etl_dag.py
+│   └── britmart_daily_schedule.py
 │
 ├── data/
 │   ├── raw/
