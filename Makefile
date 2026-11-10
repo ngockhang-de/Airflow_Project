@@ -6,6 +6,3 @@ password:
 
 errors:
 	airflow dags list-import-errors
-
-dag:
-	export AIRFLOW__CORE__DAGS_FOLDER=/Users/ngockhangvu/Desktop/Airflow_Project/dags
