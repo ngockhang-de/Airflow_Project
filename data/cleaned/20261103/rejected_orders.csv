@@ -1,0 +1,14 @@
+order_id,customer_id,order_date,product_name,quantity,unit_price_gbp,status,rejection_reason
+10020,39,2026-11-03,Noise Cancelling Headphones,0.0,149.0,REFUNDED,Invalid quantity; 
+10036,16,2026-11-03,Mechanical Keyboard,1.0,89.0,SHIPPD,Invalid status; 
+10026,26,2026-11-03,Portable SSD 1TB,3.0,99.0,COMPLETED,Duplicate order ID; 
+10017,17,2026-11-03,Mechanical Keyboard,2.0,89.0,COMPLETED,Duplicate order ID; 
+10026,26,2026-11-03,Portable SSD 1TB,5.0,99.0,COMPLETED,Duplicate order ID; 
+10040,31,2026-11-03,Desk Lamp,-2.0,29.0,COMPLETED,Invalid quantity; 
+10043,,2026-11-03,Portable SSD 1TB,1.0,99.0,REFUNDED,Missing required fields; 
+10029,1,2026-11-03,Noise Cancelling Headphones,1.0,,COMPLETED,Missing required fields; 
+10011,33,2026-11-03,Mechanical Keyboard,2.0,,COMPLETED,Missing required fields; 
+10009,16,2026-11-03,Monitor Arm,3.0,64.0,COMPLETED,Duplicate order ID; 
+10017,17,2026-11-03,Mechanical Keyboard,2.0,89.0,COMPLETED,Duplicate order ID; 
+10009,16,2026-11-03,Monitor Arm,3.0,64.0,COMPLETED,Duplicate order ID; 
+10046,11,2026-11-03,Phone Charger,1.0,-19.99,COMPLETED,Invalid price; 

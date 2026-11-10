@@ -1,0 +1,29 @@
+{
+    "run_date": "20261105",
+    "customers": {
+        "source": 46,
+        "valid": 44,
+        "rejected": 2,
+        "rejected_by_reason": {
+            "duplicate_customer_id": 1,
+            "missing_customer_name": 1
+        }
+    },
+    "orders": {
+        "source": 61,
+        "valid": 48,
+        "rejected": 13,
+        "rejected_by_reason": {
+            "Duplicate order ID; ": 6,
+            "Missing required fields; ": 3,
+            "Invalid quantity; ": 2,
+            "Invalid status; ": 1,
+            "Invalid price; ": 1
+        }
+    },
+    "output": {
+        "completed_orders": 38,
+        "completed_revenue_gbp": 3354.27,
+        "cities_in_report": 8
+    }
+}
